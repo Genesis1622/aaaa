@@ -1,1 +1,3 @@
-class Coche {}
+class Coche {
+    public marca: string;
+}
